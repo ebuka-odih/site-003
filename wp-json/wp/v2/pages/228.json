@@ -1,0 +1,264 @@
+{
+    "id": 228,
+    "date": "2025-03-23T09:10:24",
+    "date_gmt": "2025-03-23T09:10:24",
+    "guid": {
+        "rendered": "https:\/\/hispanicsociaty.org\/?page_id=228"
+    },
+    "modified": "2025-10-02T14:30:10",
+    "modified_gmt": "2025-10-02T14:30:10",
+    "slug": "library",
+    "status": "publish",
+    "type": "page",
+    "link": "https:\/\/hispanicsociaty.org\/collections\/library\/",
+    "title": {
+        "rendered": "Library"
+    },
+    "content": {
+        "rendered": "\r\n<div id=\"full-width-image-block_0c2a2986e96dcec014dc5dfcb1de3eed\" class=\"block full-width-image height_half\">\r\n            <div class=\"image_container\">\r\n            <figure class=\"\">\r\n                <img loading=\"lazy\" decoding=\"async\" width=\"1920\" height=\"459\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Library-Banner-3-1920x459.jpg\" class=\"\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Library-Banner-3-1920x459.jpg 1920w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Library-Banner-3-450x108.jpg 450w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Library-Banner-3-1200x287.jpg 1200w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Library-Banner-3-768x184.jpg 768w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Library-Banner-3-1536x367.jpg 1536w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Library-Banner-3-2048x490.jpg 2048w\" sizes=\"auto, (max-width: 1920px) 100vw, 1920px\" \/>            <\/figure>\r\n                    <\/div>\r\n    <\/div>\r\n\n\n\r\n<div id=\"text-sections-block_7013d3683b926e9fcc173de75ce41f90\" class=\"block text-sections\">\r\n            <div class=\"text-section site_width two_cols\">\r\n                            <h2 class=\"section_title\">\r\n                    An Unparalleled Resource                <\/h2>\r\n            \r\n                            <div class=\"text_content\">\r\n                    <p>The Hispanic Sociaty of America\u2019s renowned library offers unrivaled resources for researchers interested in the history and culture of Spain, Portugal, and the Americas. The collections of the Department of Manuscripts and Rare Books are among the most extensive outside Spain, containing more than 250,000 manuscripts, documents, and letters dating from the 11th to 20th centuries, along with 35,000 books printed before 1830, which include some 250 incunabula (books printed before 1500). The Hispanic Sociaty also maintains a modern research library on the literature, fine arts, geography, history, and cultures of Spain, Portugal, Latin America, and the Philippines, now comprising over 300,000 volumes plus 1,500 periodicals dating from the 19th century to the present.<\/p>\n<p>The library continues to work on its online catalogue, and new acquisitions are integrated on a daily basis into this database, which currently holds more than 50,000 records.<\/p>\n                <\/div>\r\n                    <\/div>\r\n    <\/div>\r\n\r\n\n\n\r\n<div id=\"call-to-action-block_b2e9c0058ff452f230d2a9e2b3272f0a\" class=\"block call-to-action bg_accent\">\r\n\r\n    \r\n    <div class=\"site_width\">\r\n        <div class=\"text_content\">\r\n            Search the Catalog        <\/div>\r\n        <div class=\"ctas\">\r\n                                    <a href=\"https:\/\/hispanicsociaty.mlasolutions.com\/m5\/catalog\/(S(ctrrngzztwmi3bu4eubxt1lf))\/default.aspx?installation=Default\" class=\"cta_button white\">\r\n                            Enter Here                        <\/a>\r\n                            <\/div>\r\n    <\/div>\r\n\r\n        \r\n\r\n\r\n<\/div>\r\n\r\n<style>\r\n.cta-modal-overlay {\r\n    position: fixed;\r\n    top: 0;\r\n    left: 0;\r\n    width: 100%;\r\n    height: 100%;\r\n    background-color: rgba(0, 0, 0, 0.6);\r\n    z-index: 9999;\r\n    display: flex;\r\n    align-items: center;\r\n    justify-content: center;\r\n    padding: 20px;\r\n    box-sizing: border-box;\r\n}\r\n\r\n.cta-modal {\r\n    background: white;\r\n    border-radius: 8px;\r\n    max-width: 600px;\r\n    max-height: 90vh;\r\n    width: 100%;\r\n    position: relative;\r\n    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);\r\n    overflow: hidden;\r\n    animation: modalFadeIn 0.3s ease-out;\r\n}\r\n\r\n@keyframes modalFadeIn {\r\n    from {\r\n        opacity: 0;\r\n        transform: scale(0.9) translateY(-50px);\r\n    }\r\n    to {\r\n        opacity: 1;\r\n        transform: scale(1) translateY(0);\r\n    }\r\n}\r\n\r\n.cta-modal-header {\r\n    position: relative;\r\n    padding: 15px 20px 0;\r\n    display: flex;\r\n    justify-content: flex-end;\r\n}\r\n\r\n.cta-modal-close {\r\n    background: none;\r\n    border: none;\r\n    font-size: 24px;\r\n    cursor: pointer;\r\n    color: #666;\r\n    line-height: 1;\r\n    padding: 5px;\r\n    transition: color 0.2s ease;\r\n}\r\n\r\n.cta-modal-close:hover {\r\n    color: #333;\r\n}\r\n\r\n.cta-modal-content {\r\n    padding: 0 30px 30px;\r\n    overflow-y: auto;\r\n    max-height: calc(90vh - 60px);\r\n}\r\n\r\n.cta-modal-content div[id^=\"eventbrite-widget-container\"] {\r\n    height: 765px!important;\r\n}\r\n\r\n\/* Button styling to match existing CTA buttons *\/\r\n.cta_button.open-modal {\r\n    cursor: pointer;\r\n    border: none;\r\n    \/* Ensure button behaves like existing CTA buttons *\/\r\n}\r\n\r\n\/* Responsive adjustments *\/\r\n@media (max-width: 768px) {\r\n    .cta-modal {\r\n        max-width: 95%;\r\n        margin: 10px;\r\n    }\r\n    \r\n    .cta-modal-content {\r\n        padding: 0 20px 20px;\r\n    }\r\n}\r\n\r\n\r\n<\/style>\r\n\r\n<script>\r\ndocument.addEventListener('DOMContentLoaded', function() {\r\n    \/\/ Open modal functionality\r\n    const openModalButtons = document.querySelectorAll('.open-modal');\r\n    \r\n    openModalButtons.forEach(function(button) {\r\n        button.addEventListener('click', function(e) {\r\n            e.preventDefault(); \/\/ Prevent any default behavior\r\n            \r\n            const modalId = this.getAttribute('data-modal');\r\n            const modal = document.getElementById(modalId);\r\n            \r\n            if (modal) {\r\n                modal.style.display = 'flex';\r\n                document.body.style.overflow = 'hidden'; \/\/ Prevent background scrolling\r\n            }\r\n        });\r\n    });\r\n    \r\n    \/\/ Close modal functionality\r\n    const closeModalButtons = document.querySelectorAll('.cta-modal-close');\r\n    closeModalButtons.forEach(function(button) {\r\n        button.addEventListener('click', function() {\r\n            const modalId = this.getAttribute('data-modal');\r\n            const modal = document.getElementById(modalId);\r\n            if (modal) {\r\n                modal.style.display = 'none';\r\n                document.body.style.overflow = ''; \/\/ Restore scrolling\r\n            }\r\n        });\r\n    });\r\n    \r\n    \/\/ Close modal when clicking on overlay\r\n    const modalOverlays = document.querySelectorAll('.cta-modal-overlay');\r\n    modalOverlays.forEach(function(overlay) {\r\n        overlay.addEventListener('click', function(e) {\r\n            if (e.target === this) {\r\n                this.style.display = 'none';\r\n                document.body.style.overflow = ''; \/\/ Restore scrolling\r\n            }\r\n        });\r\n    });\r\n    \r\n    \/\/ Close modal with Escape key\r\n    document.addEventListener('keydown', function(e) {\r\n        if (e.key === 'Escape') {\r\n            const visibleModals = document.querySelectorAll('.cta-modal-overlay[style*=\"flex\"]');\r\n            visibleModals.forEach(function(modal) {\r\n                modal.style.display = 'none';\r\n                document.body.style.overflow = ''; \/\/ Restore scrolling\r\n            });\r\n        }\r\n    });\r\n});\r\n<\/script>\n\n\r\n<div id=\"text-sections-block_1a1bcad94ca46b061f7aec8efd7d2c6f\" class=\"block text-sections\">\r\n            <div class=\"text-section site_width one_cols\">\r\n                            <h2 class=\"section_title\">\r\n                    Accessing the Library                <\/h2>\r\n            \r\n                            <div class=\"text_content\">\r\n                    <p><strong>Library Hours<\/strong><\/p>\n<p><strong>Open:<\/strong>\u00a0Thursday \u2013 Saturday, noon \u2013 3:30pm<br \/>\n<strong>Closed:<\/strong>\u00a0Sunday- Wednesday<\/p>\n<p><em>Note: visits to the library are by appointment only. To make an appointment, please email: books@hispanicsociaty.org.<\/em><\/p>\n<p>The Library is closed on all federal holidays, as well as Good Friday, Holy Saturday, the month of August, Thanksgiving Day and the following Friday and Saturday, and from December 20 to December 31.<\/p>\n<p>During June and July, the Library closes at 3:00pm. Summer hours vary, please contact the library department for updates.<\/p>\n                <\/div>\r\n                    <\/div>\r\n    <\/div>\r\n\r\n\n\n\r\n<div id=\"call-to-action-block_3fd6f7dac4de93e7ace5645fe7896a6f\" class=\"block call-to-action bg_gray\">\r\n\r\n    \r\n    <div class=\"site_width\">\r\n        <div class=\"text_content\">\r\n            Explore More        <\/div>\r\n        <div class=\"ctas\">\r\n                    <\/div>\r\n    <\/div>\r\n\r\n        \r\n\r\n\r\n<\/div>\r\n\r\n<style>\r\n.cta-modal-overlay {\r\n    position: fixed;\r\n    top: 0;\r\n    left: 0;\r\n    width: 100%;\r\n    height: 100%;\r\n    background-color: rgba(0, 0, 0, 0.6);\r\n    z-index: 9999;\r\n    display: flex;\r\n    align-items: center;\r\n    justify-content: center;\r\n    padding: 20px;\r\n    box-sizing: border-box;\r\n}\r\n\r\n.cta-modal {\r\n    background: white;\r\n    border-radius: 8px;\r\n    max-width: 600px;\r\n    max-height: 90vh;\r\n    width: 100%;\r\n    position: relative;\r\n    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);\r\n    overflow: hidden;\r\n    animation: modalFadeIn 0.3s ease-out;\r\n}\r\n\r\n@keyframes modalFadeIn {\r\n    from {\r\n        opacity: 0;\r\n        transform: scale(0.9) translateY(-50px);\r\n    }\r\n    to {\r\n        opacity: 1;\r\n        transform: scale(1) translateY(0);\r\n    }\r\n}\r\n\r\n.cta-modal-header {\r\n    position: relative;\r\n    padding: 15px 20px 0;\r\n    display: flex;\r\n    justify-content: flex-end;\r\n}\r\n\r\n.cta-modal-close {\r\n    background: none;\r\n    border: none;\r\n    font-size: 24px;\r\n    cursor: pointer;\r\n    color: #666;\r\n    line-height: 1;\r\n    padding: 5px;\r\n    transition: color 0.2s ease;\r\n}\r\n\r\n.cta-modal-close:hover {\r\n    color: #333;\r\n}\r\n\r\n.cta-modal-content {\r\n    padding: 0 30px 30px;\r\n    overflow-y: auto;\r\n    max-height: calc(90vh - 60px);\r\n}\r\n\r\n.cta-modal-content div[id^=\"eventbrite-widget-container\"] {\r\n    height: 765px!important;\r\n}\r\n\r\n\/* Button styling to match existing CTA buttons *\/\r\n.cta_button.open-modal {\r\n    cursor: pointer;\r\n    border: none;\r\n    \/* Ensure button behaves like existing CTA buttons *\/\r\n}\r\n\r\n\/* Responsive adjustments *\/\r\n@media (max-width: 768px) {\r\n    .cta-modal {\r\n        max-width: 95%;\r\n        margin: 10px;\r\n    }\r\n    \r\n    .cta-modal-content {\r\n        padding: 0 20px 20px;\r\n    }\r\n}\r\n\r\n\r\n<\/style>\r\n\r\n<script>\r\ndocument.addEventListener('DOMContentLoaded', function() {\r\n    \/\/ Open modal functionality\r\n    const openModalButtons = document.querySelectorAll('.open-modal');\r\n    \r\n    openModalButtons.forEach(function(button) {\r\n        button.addEventListener('click', function(e) {\r\n            e.preventDefault(); \/\/ Prevent any default behavior\r\n            \r\n            const modalId = this.getAttribute('data-modal');\r\n            const modal = document.getElementById(modalId);\r\n            \r\n            if (modal) {\r\n                modal.style.display = 'flex';\r\n                document.body.style.overflow = 'hidden'; \/\/ Prevent background scrolling\r\n            }\r\n        });\r\n    });\r\n    \r\n    \/\/ Close modal functionality\r\n    const closeModalButtons = document.querySelectorAll('.cta-modal-close');\r\n    closeModalButtons.forEach(function(button) {\r\n        button.addEventListener('click', function() {\r\n            const modalId = this.getAttribute('data-modal');\r\n            const modal = document.getElementById(modalId);\r\n            if (modal) {\r\n                modal.style.display = 'none';\r\n                document.body.style.overflow = ''; \/\/ Restore scrolling\r\n            }\r\n        });\r\n    });\r\n    \r\n    \/\/ Close modal when clicking on overlay\r\n    const modalOverlays = document.querySelectorAll('.cta-modal-overlay');\r\n    modalOverlays.forEach(function(overlay) {\r\n        overlay.addEventListener('click', function(e) {\r\n            if (e.target === this) {\r\n                this.style.display = 'none';\r\n                document.body.style.overflow = ''; \/\/ Restore scrolling\r\n            }\r\n        });\r\n    });\r\n    \r\n    \/\/ Close modal with Escape key\r\n    document.addEventListener('keydown', function(e) {\r\n        if (e.key === 'Escape') {\r\n            const visibleModals = document.querySelectorAll('.cta-modal-overlay[style*=\"flex\"]');\r\n            visibleModals.forEach(function(modal) {\r\n                modal.style.display = 'none';\r\n                document.body.style.overflow = ''; \/\/ Restore scrolling\r\n            });\r\n        }\r\n    });\r\n});\r\n<\/script>\n\n\r\n<div id=\"columns-free-content-tiles-block_d347b93d2b2902ffd985c3b302f0747f\" class=\"block site_width columns-free-content-tiles\">\r\n            <div class=\"free-content-tiles-grid\">\r\n                            <div class=\"content-tile\">\r\n                                        \r\n                                            <div class=\"tile-image\">\r\n                            <img loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"778\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/2.-B251-Copy-1200x778.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/2.-B251-Copy-1200x778.jpg 1200w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/2.-B251-Copy-450x292.jpg 450w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/2.-B251-Copy-768x498.jpg 768w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/2.-B251-Copy-1536x996.jpg 1536w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/2.-B251-Copy-2048x1328.jpg 2048w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/2.-B251-Copy-1920x1245.jpg 1920w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" \/>                        <\/div>\r\n                                        \r\n                    <div class=\"tile-content\">\r\n                                                    <h3 class=\"tile-title\">Manuscripts<\/h3>\r\n                                                \r\n                                            <\/div>\r\n\r\n                                    <\/div>\r\n                            <div class=\"content-tile\">\r\n                                        \r\n                                            <div class=\"tile-image\">\r\n                            <img loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"600\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Camoes-portrait-detail-1200x600.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Camoes-portrait-detail-1200x600.jpg 1200w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Camoes-portrait-detail-450x225.jpg 450w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Camoes-portrait-detail-768x384.jpg 768w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Camoes-portrait-detail-1536x768.jpg 1536w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Camoes-portrait-detail.jpg 1745w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" \/>                        <\/div>\r\n                                        \r\n                    <div class=\"tile-content\">\r\n                                                    <h3 class=\"tile-title\">Rare Books (Pre-1830)<\/h3>\r\n                                                \r\n                                            <\/div>\r\n\r\n                                    <\/div>\r\n                            <div class=\"content-tile\">\r\n                                        \r\n                                            <div class=\"tile-image\">\r\n                            <img loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"802\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1-1200x802.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1-1200x802.jpg 1200w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1-450x301.jpg 450w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1-768x513.jpg 768w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1-1536x1027.jpg 1536w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1.jpg 1729w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" \/>                        <\/div>\r\n                                        \r\n                    <div class=\"tile-content\">\r\n                                                    <h3 class=\"tile-title\">Maps, Charts, and Atlases<\/h3>\r\n                                                \r\n                                            <\/div>\r\n\r\n                                    <\/div>\r\n                            <div class=\"content-tile\">\r\n                                        \r\n                                            <div class=\"tile-image\">\r\n                            <img loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"1018\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Reading-Room-2-1200x1018.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Reading-Room-2-1200x1018.jpg 1200w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Reading-Room-2-450x382.jpg 450w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Reading-Room-2-768x651.jpg 768w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Reading-Room-2-1536x1303.jpg 1536w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Reading-Room-2-2048x1737.jpg 2048w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/09\/Reading-Room-2-1920x1628.jpg 1920w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" \/>                        <\/div>\r\n                                        \r\n                    <div class=\"tile-content\">\r\n                                                    <h3 class=\"tile-title\">Modern Library<\/h3>\r\n                                                \r\n                                            <\/div>\r\n\r\n                                    <\/div>\r\n                    <\/div>\r\n    <\/div>\r\n\n\n\n<p><\/p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 1114,
+    "parent": 14,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "footnotes": ""
+    },
+    "class_list": [
+        "post-228",
+        "page",
+        "type-page",
+        "status-publish",
+        "has-post-thumbnail",
+        "hentry"
+    ],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v26.0 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Library - Hispanic Sociaty Museum and Library<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hispanicsociaty.org\/collections\/library\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Library - Hispanic Sociaty Museum and Library\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hispanicsociaty.org\/collections\/library\/\" \/>\n<meta property=\"og:site_name\" content=\"Hispanic Sociaty Museum and Library\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/hispanicsociaty\" \/>\n<meta property=\"article:modified_time\" content=\"2025-10-02T14:30:10+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1729\" \/>\n\t<meta property=\"og:image:height\" content=\"1156\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@HSAmuseum\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\" \/>\n\t<meta name=\"twitter:data1\" content=\"1 minute\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hispanicsociaty.org\/collections\/library\/\",\"url\":\"https:\/\/hispanicsociaty.org\/collections\/library\/\",\"name\":\"Library - Hispanic Sociaty Museum and Library\",\"isPartOf\":{\"@id\":\"https:\/\/hispanicsociaty.org\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/hispanicsociaty.org\/collections\/library\/#primaryimage\"},\"image\":{\"@id\":\"https:\/\/hispanicsociaty.org\/collections\/library\/#primaryimage\"},\"thumbnailUrl\":\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1.jpg\",\"datePublished\":\"2025-03-23T09:10:24+00:00\",\"dateModified\":\"2025-10-02T14:30:10+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hispanicsociaty.org\/collections\/library\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hispanicsociaty.org\/collections\/library\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/hispanicsociaty.org\/collections\/library\/#primaryimage\",\"url\":\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1.jpg\",\"contentUrl\":\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1.jpg\",\"width\":1729,\"height\":1156},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hispanicsociaty.org\/collections\/library\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hispanicsociaty.org\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Collections\",\"item\":\"https:\/\/hispanicsociaty.org\/collections\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Library\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hispanicsociaty.org\/#website\",\"url\":\"https:\/\/hispanicsociaty.org\/\",\"name\":\"Hispanic Sociaty Museum and Library\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\/\/hispanicsociaty.org\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hispanicsociaty.org\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hispanicsociaty.org\/#organization\",\"name\":\"Hispanic Sociaty Museum and Library\",\"url\":\"https:\/\/hispanicsociaty.org\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/hispanicsociaty.org\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/03\/hsa-logo-01.webp\",\"contentUrl\":\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/03\/hsa-logo-01.webp\",\"width\":273,\"height\":68,\"caption\":\"Hispanic Sociaty Museum and Library\"},\"image\":{\"@id\":\"https:\/\/hispanicsociaty.org\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/hispanicsociaty\",\"https:\/\/x.com\/HSAmuseum\",\"https:\/\/www.instagram.com\/hispanic_society\/\",\"https:\/\/www.youtube.com\/channel\/UCuEmouWL8wEMm24C-ScZwGg\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+    "yoast_head_json": {
+        "title": "Library - Hispanic Sociaty Museum and Library",
+        "robots": {
+            "index": "index",
+            "follow": "follow",
+            "max-snippet": "max-snippet:-1",
+            "max-image-preview": "max-image-preview:large",
+            "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https:\/\/hispanicsociaty.org\/collections\/library\/",
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Library - Hispanic Sociaty Museum and Library",
+        "og_url": "https:\/\/hispanicsociaty.org\/collections\/library\/",
+        "og_site_name": "Hispanic Sociaty Museum and Library",
+        "article_publisher": "https:\/\/www.facebook.com\/hispanicsociaty",
+        "article_modified_time": "2025-10-02T14:30:10+00:00",
+        "og_image": [
+            {
+                "width": 1729,
+                "height": 1156,
+                "url": "https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1.jpg",
+                "type": "image\/jpeg"
+            }
+        ],
+        "twitter_card": "summary_large_image",
+        "twitter_site": "@HSAmuseum",
+        "twitter_misc": {
+            "Est. reading time": "1 minute"
+        },
+        "schema": {
+            "@context": "https:\/\/schema.org",
+            "@graph": [
+                {
+                    "@type": "WebPage",
+                    "@id": "https:\/\/hispanicsociaty.org\/collections\/library\/",
+                    "url": "https:\/\/hispanicsociaty.org\/collections\/library\/",
+                    "name": "Library - Hispanic Sociaty Museum and Library",
+                    "isPartOf": {
+                        "@id": "https:\/\/hispanicsociaty.org\/#website"
+                    },
+                    "primaryImageOfPage": {
+                        "@id": "https:\/\/hispanicsociaty.org\/collections\/library\/#primaryimage"
+                    },
+                    "image": {
+                        "@id": "https:\/\/hispanicsociaty.org\/collections\/library\/#primaryimage"
+                    },
+                    "thumbnailUrl": "https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1.jpg",
+                    "datePublished": "2025-03-23T09:10:24+00:00",
+                    "dateModified": "2025-10-02T14:30:10+00:00",
+                    "breadcrumb": {
+                        "@id": "https:\/\/hispanicsociaty.org\/collections\/library\/#breadcrumb"
+                    },
+                    "inLanguage": "en-US",
+                    "potentialAction": [
+                        {
+                            "@type": "ReadAction",
+                            "target": [
+                                "https:\/\/hispanicsociaty.org\/collections\/library\/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "ImageObject",
+                    "inLanguage": "en-US",
+                    "@id": "https:\/\/hispanicsociaty.org\/collections\/library\/#primaryimage",
+                    "url": "https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1.jpg",
+                    "contentUrl": "https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/6-97r-2-1.jpg",
+                    "width": 1729,
+                    "height": 1156
+                },
+                {
+                    "@type": "BreadcrumbList",
+                    "@id": "https:\/\/hispanicsociaty.org\/collections\/library\/#breadcrumb",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https:\/\/hispanicsociaty.org\/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Collections",
+                            "item": "https:\/\/hispanicsociaty.org\/collections\/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Library"
+                        }
+                    ]
+                },
+                {
+                    "@type": "WebSite",
+                    "@id": "https:\/\/hispanicsociaty.org\/#website",
+                    "url": "https:\/\/hispanicsociaty.org\/",
+                    "name": "Hispanic Sociaty Museum and Library",
+                    "description": "",
+                    "publisher": {
+                        "@id": "https:\/\/hispanicsociaty.org\/#organization"
+                    },
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": {
+                                "@type": "EntryPoint",
+                                "urlTemplate": "https:\/\/hispanicsociaty.org\/?s={search_term_string}"
+                            },
+                            "query-input": {
+                                "@type": "PropertyValueSpecification",
+                                "valueRequired": true,
+                                "valueName": "search_term_string"
+                            }
+                        }
+                    ],
+                    "inLanguage": "en-US"
+                },
+                {
+                    "@type": "Organization",
+                    "@id": "https:\/\/hispanicsociaty.org\/#organization",
+                    "name": "Hispanic Sociaty Museum and Library",
+                    "url": "https:\/\/hispanicsociaty.org\/",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "inLanguage": "en-US",
+                        "@id": "https:\/\/hispanicsociaty.org\/#\/schema\/logo\/image\/",
+                        "url": "https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/03\/hsa-logo-01.webp",
+                        "contentUrl": "https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/03\/hsa-logo-01.webp",
+                        "width": 273,
+                        "height": 68,
+                        "caption": "Hispanic Sociaty Museum and Library"
+                    },
+                    "image": {
+                        "@id": "https:\/\/hispanicsociaty.org\/#\/schema\/logo\/image\/"
+                    },
+                    "sameAs": [
+                        "https:\/\/www.facebook.com\/hispanicsociaty",
+                        "https:\/\/x.com\/HSAmuseum",
+                        "https:\/\/www.instagram.com\/hispanic_society\/",
+                        "https:\/\/www.youtube.com\/channel\/UCuEmouWL8wEMm24C-ScZwGg"
+                    ]
+                }
+            ]
+        }
+    },
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/hispanicsociaty.org\/wp-json\/wp\/v2\/pages\/228",
+                "targetHints": {
+                    "allow": [
+                        "GET"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/hispanicsociaty.org\/wp-json\/wp\/v2\/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/hispanicsociaty.org\/wp-json\/wp\/v2\/types\/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/hispanicsociaty.org\/wp-json\/wp\/v2\/users\/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/hispanicsociaty.org\/wp-json\/wp\/v2\/comments?post=228"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 32,
+                "href": "https:\/\/hispanicsociaty.org\/wp-json\/wp\/v2\/pages\/228\/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 3450,
+                "href": "https:\/\/hispanicsociaty.org\/wp-json\/wp\/v2\/pages\/228\/revisions\/3450"
+            }
+        ],
+        "up": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/hispanicsociaty.org\/wp-json\/wp\/v2\/pages\/14"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/hispanicsociaty.org\/wp-json\/wp\/v2\/media\/1114"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https:\/\/hispanicsociaty.org\/wp-json\/wp\/v2\/media?parent=228"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

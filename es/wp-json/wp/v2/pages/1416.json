@@ -1,0 +1,249 @@
+{
+    "id": 1416,
+    "date": "2025-03-04T11:52:51",
+    "date_gmt": "2025-03-04T11:52:51",
+    "guid": {
+        "rendered": "https:\/\/hispanicsociaty.org\/support-us\/"
+    },
+    "modified": "2025-04-27T12:35:20",
+    "modified_gmt": "2025-04-27T12:35:20",
+    "slug": "support-us",
+    "status": "publish",
+    "type": "page",
+    "link": "https:\/\/hispanicsociaty.org\/es\/support-us\/",
+    "title": {
+        "rendered": "Ap\u00f3yanos"
+    },
+    "content": {
+        "rendered": "\r\n<div id=\"full-width-image-block_5846f6338142dd1d7dccc0052cb90dda\" class=\"block full-width-image height_half\">\r\n            <div class=\"image_container\">\r\n            <figure class=\"\">\r\n                <img loading=\"lazy\" decoding=\"async\" width=\"600\" height=\"360\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a58_sorolla_beaching-the-boat.jpg\" class=\"\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a58_sorolla_beaching-the-boat.jpg 600w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a58_sorolla_beaching-the-boat-450x270.jpg 450w\" sizes=\"auto, (max-width: 600px) 100vw, 600px\" \/>            <\/figure>\r\n                    <\/div>\r\n    <\/div>\r\n\n\n\r\n<div id=\"text-sections-block_743d09fe324ef35a2763d1d5bd2e9dbe\" class=\"block text-sections\">\r\n            <div class=\"text-section site_width one_cols\">\r\n                            <h2 class=\"section_title\">\r\n                    Ap\u00f3yanos                <\/h2>\r\n            \r\n                            <div class=\"text_content\">\r\n                    <p>El Museo y Biblioteca de la Hispanic Sociaty of America fue fundado en 1904 por Archer Milton Huntington (1870-1955), destacado hispanista y uno de los mayores fil\u00e1ntropos de Estados Unidos, como museo, biblioteca e instituci\u00f3n educativa gratuita dedicada a las artes, la literatura, la historia y las culturas de Espa\u00f1a, Latinoam\u00e9rica, Portugal y Filipinas. Durante m\u00e1s de 110 a\u00f1os, la Hispanic Sociaty ha estudiado, exhibido y ampliado las inigualables colecciones hispanas que Huntington dej\u00f3 como legado, convirti\u00e9ndose en uno de los principales repositorios mundiales centrados en las artes, la literatura y las culturas hispanas.<\/p>\n<p>La Hispanic Sociaty es una organizaci\u00f3n sin fines de lucro que depende del generoso apoyo de particulares, entidades gubernamentales, fundaciones y corporaciones para consolidar la solidez de sus colecciones y ofrecer programas gratuitos y de alta calidad a su diverso p\u00fablico local, nacional e internacional.<\/p>\n<p>Puede ayudarnos a continuar con el legado de Huntington haci\u00e9ndose miembro, realizando una contribuci\u00f3n a trav\u00e9s del Fondo Anual o apoyando nuestros programas de arte y educaci\u00f3n. Para obtener m\u00e1s informaci\u00f3n, llame a la Oficina de Desarrollo al 212-926-2234 ext. 247, o env\u00ede un correo electr\u00f3nico a development@hispanicsociaty.org<\/p>\n<p>&nbsp;<\/p>\n                <\/div>\r\n                    <\/div>\r\n    <\/div>\r\n\r\n\n\n\r\n<div id=\"call-to-action-block_7ea92317425a17c3dfc2d4876f97da7f\" class=\"block call-to-action bg_accent\">\r\n\r\n    \r\n    <div class=\"site_width\">\r\n        <div class=\"text_content\">\r\n            Agradecemos a nuestros patrocinadores por ayudar a la Sociedad Hispana a conectar a la gente con la creatividad, el conocimiento y las ideas de las artes, la literatura y las culturas del mundo hispano.        <\/div>\r\n        <div class=\"ctas\">\r\n                                    <a href=\"https:\/\/hispanicsociaty.org\/support_us\/donate\/\" class=\"cta_button white\">\r\n                            DONAR ONLINE                        <\/a>\r\n                            <\/div>\r\n    <\/div>\r\n\r\n        \r\n\r\n\r\n<\/div>\r\n\r\n<style>\r\n.cta-modal-overlay {\r\n    position: fixed;\r\n    top: 0;\r\n    left: 0;\r\n    width: 100%;\r\n    height: 100%;\r\n    background-color: rgba(0, 0, 0, 0.6);\r\n    z-index: 9999;\r\n    display: flex;\r\n    align-items: center;\r\n    justify-content: center;\r\n    padding: 20px;\r\n    box-sizing: border-box;\r\n}\r\n\r\n.cta-modal {\r\n    background: white;\r\n    border-radius: 8px;\r\n    max-width: 600px;\r\n    max-height: 90vh;\r\n    width: 100%;\r\n    position: relative;\r\n    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);\r\n    overflow: hidden;\r\n    animation: modalFadeIn 0.3s ease-out;\r\n}\r\n\r\n@keyframes modalFadeIn {\r\n    from {\r\n        opacity: 0;\r\n        transform: scale(0.9) translateY(-50px);\r\n    }\r\n    to {\r\n        opacity: 1;\r\n        transform: scale(1) translateY(0);\r\n    }\r\n}\r\n\r\n.cta-modal-header {\r\n    position: relative;\r\n    padding: 15px 20px 0;\r\n    display: flex;\r\n    justify-content: flex-end;\r\n}\r\n\r\n.cta-modal-close {\r\n    background: none;\r\n    border: none;\r\n    font-size: 24px;\r\n    cursor: pointer;\r\n    color: #666;\r\n    line-height: 1;\r\n    padding: 5px;\r\n    transition: color 0.2s ease;\r\n}\r\n\r\n.cta-modal-close:hover {\r\n    color: #333;\r\n}\r\n\r\n.cta-modal-content {\r\n    padding: 0 30px 30px;\r\n    overflow-y: auto;\r\n    max-height: calc(90vh - 60px);\r\n}\r\n\r\n.cta-modal-content div[id^=\"eventbrite-widget-container\"] {\r\n    height: 765px!important;\r\n}\r\n\r\n\/* Button styling to match existing CTA buttons *\/\r\n.cta_button.open-modal {\r\n    cursor: pointer;\r\n    border: none;\r\n    \/* Ensure button behaves like existing CTA buttons *\/\r\n}\r\n\r\n\/* Responsive adjustments *\/\r\n@media (max-width: 768px) {\r\n    .cta-modal {\r\n        max-width: 95%;\r\n        margin: 10px;\r\n    }\r\n    \r\n    .cta-modal-content {\r\n        padding: 0 20px 20px;\r\n    }\r\n}\r\n\r\n\r\n<\/style>\r\n\r\n<script>\r\ndocument.addEventListener('DOMContentLoaded', function() {\r\n    \/\/ Open modal functionality\r\n    const openModalButtons = document.querySelectorAll('.open-modal');\r\n    \r\n    openModalButtons.forEach(function(button) {\r\n        button.addEventListener('click', function(e) {\r\n            e.preventDefault(); \/\/ Prevent any default behavior\r\n            \r\n            const modalId = this.getAttribute('data-modal');\r\n            const modal = document.getElementById(modalId);\r\n            \r\n            if (modal) {\r\n                modal.style.display = 'flex';\r\n                document.body.style.overflow = 'hidden'; \/\/ Prevent background scrolling\r\n            }\r\n        });\r\n    });\r\n    \r\n    \/\/ Close modal functionality\r\n    const closeModalButtons = document.querySelectorAll('.cta-modal-close');\r\n    closeModalButtons.forEach(function(button) {\r\n        button.addEventListener('click', function() {\r\n            const modalId = this.getAttribute('data-modal');\r\n            const modal = document.getElementById(modalId);\r\n            if (modal) {\r\n                modal.style.display = 'none';\r\n                document.body.style.overflow = ''; \/\/ Restore scrolling\r\n            }\r\n        });\r\n    });\r\n    \r\n    \/\/ Close modal when clicking on overlay\r\n    const modalOverlays = document.querySelectorAll('.cta-modal-overlay');\r\n    modalOverlays.forEach(function(overlay) {\r\n        overlay.addEventListener('click', function(e) {\r\n            if (e.target === this) {\r\n                this.style.display = 'none';\r\n                document.body.style.overflow = ''; \/\/ Restore scrolling\r\n            }\r\n        });\r\n    });\r\n    \r\n    \/\/ Close modal with Escape key\r\n    document.addEventListener('keydown', function(e) {\r\n        if (e.key === 'Escape') {\r\n            const visibleModals = document.querySelectorAll('.cta-modal-overlay[style*=\"flex\"]');\r\n            visibleModals.forEach(function(modal) {\r\n                modal.style.display = 'none';\r\n                document.body.style.overflow = ''; \/\/ Restore scrolling\r\n            });\r\n        }\r\n    });\r\n});\r\n<\/script>\n\n\r\n<div id=\"image-tiles-with-links-block_17ad123a883dadff6449004138666cb3\" class=\"block site_width image-tiles-with-links\">\r\n\r\n    <div class=\"images_tiles_grid\">\r\n\r\n        \r\n                <a href=\"\" class=\"image_tile\">\r\n                    <div class=\"image\">\r\n                        <img loading=\"lazy\" decoding=\"async\" width=\"600\" height=\"360\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a1805_sorolla_vision_valencia.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a1805_sorolla_vision_valencia.jpg 600w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a1805_sorolla_vision_valencia-450x270.jpg 450w\" sizes=\"auto, (max-width: 600px) 100vw, 600px\" \/>                    <\/div>\r\n                    <div class=\"tile_title\">\r\n                        Nuestros Partidarios                    <\/div>\r\n                <\/a>\r\n\r\n            \r\n                <a href=\"\" class=\"image_tile\">\r\n                    <div class=\"image\">\r\n                        <img loading=\"lazy\" decoding=\"async\" width=\"480\" height=\"631\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/main_court_hispanic-society_2014_0045_2-1.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/main_court_hispanic-society_2014_0045_2-1.jpg 480w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/main_court_hispanic-society_2014_0045_2-1-342x450.jpg 342w\" sizes=\"auto, (max-width: 480px) 100vw, 480px\" \/>                    <\/div>\r\n                    <div class=\"tile_title\">\r\n                        Hacer un Regalo                    <\/div>\r\n                <\/a>\r\n\r\n            \r\n                <a href=\"\" class=\"image_tile\">\r\n                    <div class=\"image\">\r\n                        <img loading=\"lazy\" decoding=\"async\" width=\"800\" height=\"1200\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/membership_a1719-800x1200.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/membership_a1719-800x1200.jpg 800w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/membership_a1719-300x450.jpg 300w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/membership_a1719-768x1152.jpg 768w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/membership_a1719-1024x1536.jpg 1024w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/membership_a1719-1365x2048.jpg 1365w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/membership_a1719.jpg 1500w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" \/>                    <\/div>\r\n                    <div class=\"tile_title\">\r\n                        Membres\u00eda                    <\/div>\r\n                <\/a>\r\n\r\n            \r\n                <a href=\"\" class=\"image_tile\">\r\n                    <div class=\"image\">\r\n                        <img loading=\"lazy\" decoding=\"async\" width=\"1100\" height=\"780\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a295_anglada-girls-of-burriana.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a295_anglada-girls-of-burriana.jpg 1100w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a295_anglada-girls-of-burriana-450x319.jpg 450w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a295_anglada-girls-of-burriana-768x545.jpg 768w\" sizes=\"auto, (max-width: 1100px) 100vw, 1100px\" \/>                    <\/div>\r\n                    <div class=\"tile_title\">\r\n                        Otras formas de donar                    <\/div>\r\n                <\/a>\r\n\r\n            \r\n                <a href=\"\" class=\"image_tile\">\r\n                    <div class=\"image\">\r\n                        <img loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/hsa_support-us_gala-1-1200x800.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/hsa_support-us_gala-1-1200x800.jpg 1200w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/hsa_support-us_gala-1-450x300.jpg 450w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/hsa_support-us_gala-1-768x512.jpg 768w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/hsa_support-us_gala-1-1536x1024.jpg 1536w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/hsa_support-us_gala-1-2048x1365.jpg 2048w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/hsa_support-us_gala-1-1920x1280.jpg 1920w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" \/>                    <\/div>\r\n                    <div class=\"tile_title\">\r\n                        Gala                    <\/div>\r\n                <\/a>\r\n\r\n            \r\n                <a href=\"\" class=\"image_tile\">\r\n                    <div class=\"image\">\r\n                        <img loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/corporateandprivate_sala-bancaja-1200x800.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/corporateandprivate_sala-bancaja-1200x800.jpg 1200w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/corporateandprivate_sala-bancaja-450x300.jpg 450w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/corporateandprivate_sala-bancaja-768x512.jpg 768w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/corporateandprivate_sala-bancaja-1536x1024.jpg 1536w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/corporateandprivate_sala-bancaja-2048x1365.jpg 2048w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/corporateandprivate_sala-bancaja-1920x1280.jpg 1920w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" \/>                    <\/div>\r\n                    <div class=\"tile_title\">\r\n                        Entretenimiento en la HSML                    <\/div>\r\n                <\/a>\r\n\r\n            \r\n    <\/div>\r\n\r\n<\/div>\r\n\n\n\r\n<div id=\"related-content-block_e9c53dd1ffef911f09cacf506c38c7af\" class=\"block site_width related-content\">\r\n    <h3 class=\"related-content__heading\">Explorar M\u00e1s<\/h3>    <div class=\"content_cards_grid\">\n                    <article class=\"single_content_card\">\n                <div class=\"content_thumbnail\">\n                    <img loading=\"lazy\" decoding=\"async\" width=\"450\" height=\"300\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Dominican_York-450x300.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Dominican_York-450x300.jpg 450w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Dominican_York-1200x800.jpg 1200w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Dominican_York-768x512.jpg 768w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Dominican_York-1536x1025.jpg 1536w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Dominican_York-2048x1366.jpg 2048w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Dominican_York-1920x1281.jpg 1920w\" sizes=\"auto, (max-width: 450px) 100vw, 450px\" \/>                <\/div>\n                <div class=\"content_card_info\">\n                    <div class=\"content_card_title\">\n                        Debates en mesa redonda                    <\/div>\n                    <div class=\"content_card_excerpt\">\n                                            <\/div>\n                <\/div>\n                <a href=\"https:\/\/hispanicsociaty.org\/es\/artist-roundtable-discussion\/\" class=\"cta_button small accent\">\n                    Read\n                <\/a>\n            <\/article>\n                    <article class=\"single_content_card\">\n                <div class=\"content_thumbnail\">\n                    <img loading=\"lazy\" decoding=\"async\" width=\"450\" height=\"242\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/clotildeleyendoelperiodicolastcroppedbanner-450x242.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/clotildeleyendoelperiodicolastcroppedbanner-450x242.jpg 450w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/clotildeleyendoelperiodicolastcroppedbanner-1200x645.jpg 1200w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/clotildeleyendoelperiodicolastcroppedbanner-768x413.jpg 768w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/clotildeleyendoelperiodicolastcroppedbanner.jpg 1434w\" sizes=\"auto, (max-width: 450px) 100vw, 450px\" \/>                <\/div>\n                <div class=\"content_card_info\">\n                    <div class=\"content_card_title\">\n                        Aprender                    <\/div>\n                    <div class=\"content_card_excerpt\">\n                                            <\/div>\n                <\/div>\n                <a href=\"https:\/\/hispanicsociaty.org\/es\/learn\/\" class=\"cta_button small accent\">\n                    Read\n                <\/a>\n            <\/article>\n                    <article class=\"single_content_card\">\n                <div class=\"content_thumbnail\">\n                    <img loading=\"lazy\" decoding=\"async\" width=\"450\" height=\"371\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Peanuts-450x371.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Peanuts-450x371.jpg 450w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Peanuts-768x633.jpg 768w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Peanuts.jpg 854w\" sizes=\"auto, (max-width: 450px) 100vw, 450px\" \/>                <\/div>\n                <div class=\"content_card_info\">\n                    <div class=\"content_card_title\">\n                        From Lima to Canton and Beyond                    <\/div>\n                    <div class=\"content_card_excerpt\">\n                                            <\/div>\n                <\/div>\n                <a href=\"https:\/\/hispanicsociaty.org\/es\/from-lima-to-canton-and-beyond\/\" class=\"cta_button small accent\">\n                    Read\n                <\/a>\n            <\/article>\n                    <article class=\"single_content_card\">\n                <div class=\"content_thumbnail\">\n                    <img loading=\"lazy\" decoding=\"async\" width=\"450\" height=\"337\" src=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Dragoon_Sketch-450x337.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" srcset=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Dragoon_Sketch-450x337.jpg 450w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Dragoon_Sketch-768x575.jpg 768w, https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/Dragoon_Sketch.jpg 1200w\" sizes=\"auto, (max-width: 450px) 100vw, 450px\" \/>                <\/div>\n                <div class=\"content_card_info\">\n                    <div class=\"content_card_title\">\n                        Centro Goya                    <\/div>\n                    <div class=\"content_card_excerpt\">\n                                            <\/div>\n                <\/div>\n                <a href=\"https:\/\/hispanicsociaty.org\/es\/goya-research-center\/\" class=\"cta_button small accent\">\n                    Read\n                <\/a>\n            <\/article>\n            <\/div>\n    <\/div>\r\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 1404,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "footnotes": ""
+    },
+    "class_list": [
+        "post-1416",
+        "page",
+        "type-page",
+        "status-publish",
+        "has-post-thumbnail",
+        "hentry"
+    ],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v26.0 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Ap\u00f3yanos - Hispanic Sociaty Museum and Library<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hispanicsociaty.org\/support-us\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Ap\u00f3yanos - Hispanic Sociaty Museum and Library\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hispanicsociaty.org\/support-us\/\" \/>\n<meta property=\"og:site_name\" content=\"Hispanic Sociaty Museum and Library\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/hispanicsociaty\" \/>\n<meta property=\"article:modified_time\" content=\"2025-04-27T12:35:20+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a58_sorolla_beaching-the-boat.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"600\" \/>\n\t<meta property=\"og:image:height\" content=\"360\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@HSAmuseum\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hispanicsociaty.org\/support-us\/\",\"url\":\"https:\/\/hispanicsociaty.org\/support-us\/\",\"name\":\"Ap\u00f3yanos - Hispanic Sociaty Museum and Library\",\"isPartOf\":{\"@id\":\"https:\/\/hispanicsociaty.org\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/hispanicsociaty.org\/support-us\/#primaryimage\"},\"image\":{\"@id\":\"https:\/\/hispanicsociaty.org\/support-us\/#primaryimage\"},\"thumbnailUrl\":\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a58_sorolla_beaching-the-boat.jpg\",\"datePublished\":\"2025-03-04T11:52:51+00:00\",\"dateModified\":\"2025-04-27T12:35:20+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hispanicsociaty.org\/support-us\/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hispanicsociaty.org\/support-us\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/hispanicsociaty.org\/support-us\/#primaryimage\",\"url\":\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a58_sorolla_beaching-the-boat.jpg\",\"contentUrl\":\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a58_sorolla_beaching-the-boat.jpg\",\"width\":600,\"height\":360},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hispanicsociaty.org\/support-us\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hispanicsociaty.org\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Ap\u00f3yanos\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hispanicsociaty.org\/#website\",\"url\":\"https:\/\/hispanicsociaty.org\/\",\"name\":\"Hispanic Sociaty Museum and Library\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\/\/hispanicsociaty.org\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hispanicsociaty.org\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hispanicsociaty.org\/#organization\",\"name\":\"Hispanic Sociaty Museum and Library\",\"url\":\"https:\/\/hispanicsociaty.org\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/hispanicsociaty.org\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/03\/hsa-logo-01.webp\",\"contentUrl\":\"https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/03\/hsa-logo-01.webp\",\"width\":273,\"height\":68,\"caption\":\"Hispanic Sociaty Museum and Library\"},\"image\":{\"@id\":\"https:\/\/hispanicsociaty.org\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/hispanicsociaty\",\"https:\/\/x.com\/HSAmuseum\",\"https:\/\/www.instagram.com\/hispanic_society\/\",\"https:\/\/www.youtube.com\/channel\/UCuEmouWL8wEMm24C-ScZwGg\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+    "yoast_head_json": {
+        "title": "Ap\u00f3yanos - Hispanic Sociaty Museum and Library",
+        "robots": {
+            "index": "index",
+            "follow": "follow",
+            "max-snippet": "max-snippet:-1",
+            "max-image-preview": "max-image-preview:large",
+            "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https:\/\/hispanicsociaty.org\/support-us\/",
+        "og_locale": "es_ES",
+        "og_type": "article",
+        "og_title": "Ap\u00f3yanos - Hispanic Sociaty Museum and Library",
+        "og_url": "https:\/\/hispanicsociaty.org\/support-us\/",
+        "og_site_name": "Hispanic Sociaty Museum and Library",
+        "article_publisher": "https:\/\/www.facebook.com\/hispanicsociaty",
+        "article_modified_time": "2025-04-27T12:35:20+00:00",
+        "og_image": [
+            {
+                "width": 600,
+                "height": 360,
+                "url": "https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a58_sorolla_beaching-the-boat.jpg",
+                "type": "image\/jpeg"
+            }
+        ],
+        "twitter_card": "summary_large_image",
+        "twitter_site": "@HSAmuseum",
+        "schema": {
+            "@context": "https:\/\/schema.org",
+            "@graph": [
+                {
+                    "@type": "WebPage",
+                    "@id": "https:\/\/hispanicsociaty.org\/support-us\/",
+                    "url": "https:\/\/hispanicsociaty.org\/support-us\/",
+                    "name": "Ap\u00f3yanos - Hispanic Sociaty Museum and Library",
+                    "isPartOf": {
+                        "@id": "https:\/\/hispanicsociaty.org\/#website"
+                    },
+                    "primaryImageOfPage": {
+                        "@id": "https:\/\/hispanicsociaty.org\/support-us\/#primaryimage"
+                    },
+                    "image": {
+                        "@id": "https:\/\/hispanicsociaty.org\/support-us\/#primaryimage"
+                    },
+                    "thumbnailUrl": "https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a58_sorolla_beaching-the-boat.jpg",
+                    "datePublished": "2025-03-04T11:52:51+00:00",
+                    "dateModified": "2025-04-27T12:35:20+00:00",
+                    "breadcrumb": {
+                        "@id": "https:\/\/hispanicsociaty.org\/support-us\/#breadcrumb"
+                    },
+                    "inLanguage": "es",
+                    "potentialAction": [
+                        {
+                            "@type": "ReadAction",
+                            "target": [
+                                "https:\/\/hispanicsociaty.org\/support-us\/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "ImageObject",
+                    "inLanguage": "es",
+                    "@id": "https:\/\/hispanicsociaty.org\/support-us\/#primaryimage",
+                    "url": "https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a58_sorolla_beaching-the-boat.jpg",
+                    "contentUrl": "https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/04\/a58_sorolla_beaching-the-boat.jpg",
+                    "width": 600,
+                    "height": 360
+                },
+                {
+                    "@type": "BreadcrumbList",
+                    "@id": "https:\/\/hispanicsociaty.org\/support-us\/#breadcrumb",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https:\/\/hispanicsociaty.org\/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Ap\u00f3yanos"
+                        }
+                    ]
+                },
+                {
+                    "@type": "WebSite",
+                    "@id": "https:\/\/hispanicsociaty.org\/#website",
+                    "url": "https:\/\/hispanicsociaty.org\/",
+                    "name": "Hispanic Sociaty Museum and Library",
+                    "description": "",
+                    "publisher": {
+                        "@id": "https:\/\/hispanicsociaty.org\/#organization"
+                    },
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": {
+                                "@type": "EntryPoint",
+                                "urlTemplate": "https:\/\/hispanicsociaty.org\/?s={search_term_string}"
+                            },
+                            "query-input": {
+                                "@type": "PropertyValueSpecification",
+                                "valueRequired": true,
+                                "valueName": "search_term_string"
+                            }
+                        }
+                    ],
+                    "inLanguage": "es"
+                },
+                {
+                    "@type": "Organization",
+                    "@id": "https:\/\/hispanicsociaty.org\/#organization",
+                    "name": "Hispanic Sociaty Museum and Library",
+                    "url": "https:\/\/hispanicsociaty.org\/",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "inLanguage": "es",
+                        "@id": "https:\/\/hispanicsociaty.org\/#\/schema\/logo\/image\/",
+                        "url": "https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/03\/hsa-logo-01.webp",
+                        "contentUrl": "https:\/\/hispanicsociaty.org\/wp-content\/uploads\/2025\/03\/hsa-logo-01.webp",
+                        "width": 273,
+                        "height": 68,
+                        "caption": "Hispanic Sociaty Museum and Library"
+                    },
+                    "image": {
+                        "@id": "https:\/\/hispanicsociaty.org\/#\/schema\/logo\/image\/"
+                    },
+                    "sameAs": [
+                        "https:\/\/www.facebook.com\/hispanicsociaty",
+                        "https:\/\/x.com\/HSAmuseum",
+                        "https:\/\/www.instagram.com\/hispanic_society\/",
+                        "https:\/\/www.youtube.com\/channel\/UCuEmouWL8wEMm24C-ScZwGg"
+                    ]
+                }
+            ]
+        }
+    },
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/hispanicsociaty.org\/es\/wp-json\/wp\/v2\/pages\/1416",
+                "targetHints": {
+                    "allow": [
+                        "GET"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/hispanicsociaty.org\/es\/wp-json\/wp\/v2\/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/hispanicsociaty.org\/es\/wp-json\/wp\/v2\/types\/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/hispanicsociaty.org\/es\/wp-json\/wp\/v2\/users\/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/hispanicsociaty.org\/es\/wp-json\/wp\/v2\/comments?post=1416"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https:\/\/hispanicsociaty.org\/es\/wp-json\/wp\/v2\/pages\/1416\/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1418,
+                "href": "https:\/\/hispanicsociaty.org\/es\/wp-json\/wp\/v2\/pages\/1416\/revisions\/1418"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/hispanicsociaty.org\/es\/wp-json\/wp\/v2\/media\/1404"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https:\/\/hispanicsociaty.org\/es\/wp-json\/wp\/v2\/media?parent=1416"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}
