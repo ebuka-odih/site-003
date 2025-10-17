@@ -1,0 +1,230 @@
+<!-- 2025 Gala Registration Form -->
+<form id="gala-registration-form" style="max-width: 800px; margin: 0 auto; font-family: Arial, sans-serif;">
+    <div id="BBPanelPrices" data-panel="prices" style="display: block;">
+
+        <div class="BBFormSection BBFormSectionPriceSelect">
+            <fieldset>
+                <legend class="BBFormSectionHeadingRegistration">
+                    <div class="BBFormSectionHeading">
+                        <label class="BBFormFieldLabelEdit"
+                            style="font-size: 24px; font-weight: 700; color: #c56933; text-align: center; display: block; margin-bottom: 5px;">Gala
+                            2025</label>
+                        <p style="text-align: center; font-size: 16px; color: #666; margin: 0 0 20px 0;">Thursday, 30
+                            October 2025</p>
+                        <label class="BBFormFieldLabelEdit" style="font-size: 18px; font-weight: 600;">Select
+                            Tickets</label>
+                    </div>
+                </legend>
+
+                <!-- Ticket Selection -->
+                <div class="BBFormFieldContainer BBFormFieldContainerRequired">
+                    <label for="ticket_type" class="BBFormFieldLabel BBFormFieldLabelEdit">Ticket Type *</label>
+                    <select id="ticket_type" name="ticket_type" class="BBFormSelectList" required>
+                        <option value="">Please select...</option>
+                        <option value="patron_5000">Individual Patron Ticket - $5,000</option>
+                        <option value="benefactor_8000">Individual Benefactor Ticket - $8,000</option>
+                        <option value="sponsor_15000">Individual Sponsor Ticket - $15,000</option>
+                        <option value="patron_table_20000">Patron Table (10 seats) - $20,000</option>
+                        <option value="benefactor_table_40000">Benefactor Table (10 seats) - $40,000</option>
+                        <option value="sponsor_table_60000">Sponsor Table (10 seats) - $60,000</option>
+                    </select>
+                </div>
+
+                <div class="BBFormFieldContainer">
+                    <label for="quantity" class="BBFormFieldLabel BBFormFieldLabelEdit">Quantity</label>
+                    <select id="quantity" name="quantity" class="BBFormSelectList">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+                </div>
+
+                <div class="BBFormFieldContainer">
+                    <label for="additional_donation" class="BBFormFieldLabel BBFormFieldLabelEdit">Additional Donation
+                        (Optional)</label>
+                    <input type="number" id="additional_donation" name="additional_donation" class="BBFormTextbox"
+                        placeholder="$0.00" min="0" step="0.01">
+                </div>
+
+                <div class="BBFormTableFooter"
+                    style="margin-top: 20px; padding: 15px; background: #f8f9fa; border-radius: 6px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <div class="BBFormTableFooterLabel" style="font-weight: 700; font-size: 16px;">Total:</div>
+                        <div id="total_amount" style="font-weight: 700; font-size: 20px; color: #c56933;">$0.00</div>
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+
+        <!-- Contact Information -->
+        <div class="BBFormSection BBFormSectionContact" style="margin-top: 40px;">
+            <fieldset>
+                <legend>
+                    <div class="BBFormSectionHeading">
+                        <label class="BBFormFieldLabelEdit">Contact Information</label>
+                    </div>
+                </legend>
+
+                <div class="BBFormFieldContainer BBFormFieldContainerRequired">
+                    <label for="full_name" class="BBFormFieldLabel BBFormFieldLabelEdit">Full Name *</label>
+                    <input type="text" id="full_name" name="full_name" class="BBFormTextbox" required maxlength="100"
+                        placeholder="Enter your full name">
+                </div>
+
+                <div class="BBFormFieldContainer BBFormFieldContainerRequired">
+                    <label for="email" class="BBFormFieldLabel BBFormFieldLabelEdit">Email Address *</label>
+                    <input type="email" id="email" name="email" class="BBFormTextbox" required
+                        placeholder="your@email.com">
+                </div>
+
+                <div class="BBFormFieldContainer BBFormFieldContainerRequired">
+                    <label for="phone" class="BBFormFieldLabel BBFormFieldLabelEdit">Phone Number *</label>
+                    <input type="tel" id="phone" name="phone" class="BBFormTextbox" required
+                        placeholder="(123) 456-7890">
+                </div>
+
+                <div class="BBFormFieldContainer">
+                    <label for="organization" class="BBFormFieldLabel BBFormFieldLabelEdit">Organization
+                        (Optional)</label>
+                    <input type="text" id="organization" name="organization" class="BBFormTextbox"
+                        placeholder="Company or organization name">
+                </div>
+
+                <div class="BBFormFieldContainer">
+                    <label for="attendee_names" class="BBFormFieldLabel BBFormFieldLabelEdit">Attendee Names</label>
+                    <p style="font-size: 13px; color: #666; margin: 5px 0 10px 0;">If purchasing multiple tickets,
+                        please list all attendee names (one per line)</p>
+                    <textarea id="attendee_names" name="attendee_names" class="BBFormTextArea" rows="6"
+                        placeholder="John Smith&#10;Jane Doe&#10;Robert Johnson"></textarea>
+                </div>
+
+                <div class="BBFormFieldContainer">
+                    <label for="special_requests" class="BBFormFieldLabel BBFormFieldLabelEdit">Special Requests or
+                        Dietary Restrictions</label>
+                    <textarea id="special_requests" name="special_requests" class="BBFormTextArea" rows="4"
+                        placeholder="Any special requests, dietary restrictions, or additional information"></textarea>
+                </div>
+            </fieldset>
+        </div>
+
+        <!-- Submit Button -->
+        <div class="BBFormButtonRow" style="margin-top: 40px;">
+            <div class="BBFormFieldContainer">
+                <button type="submit" id="gala_submit_btn" class="BBFormSubmitbutton">
+                    Complete Registration
+                </button>
+            </div>
+            <div id="form-message" style="margin-top: 20px; text-align: center; display: none;"></div>
+        </div>
+    </div>
+</form>
+
+<script>
+    // Form submission handler for Gala Registration
+    document.addEventListener('DOMContentLoaded', function () {
+        const form = document.getElementById('gala-registration-form');
+        const ticketTypeSelect = document.getElementById('ticket_type');
+        const quantitySelect = document.getElementById('quantity');
+        const additionalDonation = document.getElementById('additional_donation');
+        const totalAmountElement = document.getElementById('total_amount');
+        const formMessage = document.getElementById('form-message');
+
+        // Ticket prices mapping
+        const ticketPrices = {
+            'patron_5000': 5000,
+            'benefactor_8000': 8000,
+            'sponsor_15000': 15000,
+            'patron_table_20000': 20000,
+            'benefactor_table_40000': 40000,
+            'sponsor_table_60000': 60000
+        };
+
+        // Update total when selections change
+        function updateTotal() {
+            const ticketType = ticketTypeSelect.value;
+            const quantity = parseInt(quantitySelect.value) || 1;
+            const donation = parseFloat(additionalDonation.value) || 0;
+
+            let total = 0;
+            if (ticketType && ticketPrices[ticketType]) {
+                total = (ticketPrices[ticketType] * quantity) + donation;
+            }
+
+            totalAmountElement.textContent = '$' + total.toLocaleString('en-US', {
+                minimumFractionDigits: 2,
+                maximumFractionDigits: 2
+            });
+        }
+
+        // Event listeners for total calculation
+        ticketTypeSelect.addEventListener('change', updateTotal);
+        quantitySelect.addEventListener('change', updateTotal);
+        additionalDonation.addEventListener('input', updateTotal);
+
+        // Form submission
+        form.addEventListener('submit', async function (e) {
+            e.preventDefault();
+
+            const submitButton = document.getElementById('gala_submit_btn');
+            submitButton.disabled = true;
+            submitButton.textContent = 'Sending...';
+
+            formMessage.style.display = 'none';
+
+            // Collect form data
+            const formData = {
+                ticket_type: ticketTypeSelect.options[ticketTypeSelect.selectedIndex].text,
+                quantity: quantitySelect.value,
+                additional_donation: additionalDonation.value || '0',
+                total_amount: totalAmountElement.textContent,
+                full_name: document.getElementById('full_name').value,
+                email: document.getElementById('email').value,
+                phone: document.getElementById('phone').value,
+                organization: document.getElementById('organization').value || 'N/A',
+                attendee_names: document.getElementById('attendee_names').value || 'N/A',
+                special_requests: document.getElementById('special_requests').value || 'N/A'
+            };
+
+            try {
+                // Send email via PHP
+                const response = await fetch('/wp-content/themes/hsa_2025/send-gala-registration.php', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(formData)
+                });
+
+                const result = await response.json();
+
+                if (result.success) {
+                    formMessage.style.display = 'block';
+                    formMessage.style.color = '#28a745';
+                    formMessage.innerHTML = '<strong>Success!</strong> Your registration has been submitted. We will contact you shortly with payment instructions.';
+                    form.reset();
+                    updateTotal();
+                } else {
+                    throw new Error(result.message || 'Submission failed');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                formMessage.style.display = 'block';
+                formMessage.style.color = '#dc3545';
+                formMessage.innerHTML = '<strong>Error:</strong> There was a problem submitting your registration. Please try again or contact us directly at admin@hispanicsociety.org';
+            } finally {
+                submitButton.disabled = false;
+                submitButton.textContent = 'Complete Registration';
+            }
+        });
+
+        // Initialize total
+        updateTotal();
+    });
+</script>
