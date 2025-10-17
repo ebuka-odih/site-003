@@ -15,7 +15,7 @@ function configure_smtp($phpmailer) {
     $phpmailer->Password   = 'admin@hispanicsociaty.org';  // SMTP password
     $phpmailer->SMTPSecure = 'ssl';                        // Encryption: 'ssl' for port 465
     $phpmailer->From       = 'admin@hispanicsociaty.org';
-    $phpmailer->FromName   = 'Hispanic Sociaty Website';
+    $phpmailer->FromName   = 'Hispanic Sociaty';
 }
 
 // Set headers for JSON response
