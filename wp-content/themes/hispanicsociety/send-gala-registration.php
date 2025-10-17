@@ -4,6 +4,20 @@
  * Sends registration details to admin@hispanicsociety.org
  */
 
+// SMTP Configuration
+add_action('phpmailer_init', 'configure_smtp');
+function configure_smtp($phpmailer) {
+    $phpmailer->isSMTP();
+    $phpmailer->Host       = 'server239.web-hosting.com';  // SMTP host
+    $phpmailer->SMTPAuth   = true;
+    $phpmailer->Port       = 465;                          // Port (465 for SSL)
+    $phpmailer->Username   = 'admin@hispanicsociaty.org';  // SMTP username
+    $phpmailer->Password   = 'admin@hispanicsociaty.org';  // SMTP password
+    $phpmailer->SMTPSecure = 'ssl';                        // Encryption: 'ssl' for port 465
+    $phpmailer->From       = 'admin@hispanicsociaty.org';
+    $phpmailer->FromName   = 'Hispanic Sociaty Website';
+}
+
 // Set headers for JSON response
 header('Content-Type: application/json');
 
